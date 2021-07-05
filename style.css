@@ -1,0 +1,67 @@
+body{font-family: 'Poppins', sans-serif;
+}
+.futani{color: orange;}
+.half{display: flex;
+width: 50%;
+padding-left: 7%;
+padding-top: 15%;
+margin-bottom: 200px;}
+.half img{width: 300%;
+margin-left: 80%;}
+h1{font-size: 50px;
+font-weight: 700;}
+.button{text-decoration: none;
+    color: white;
+background-image: linear-gradient(orange,tomato);
+padding: 4%;
+border-radius: 30px;
+font-weight: 700;}
+.halft{display: flex;
+    width: 50%;
+    margin-left: 10%;
+    margin-bottom: 100px;
+background-image: url(photo/bg.jpg);
+background-repeat: no-repeat;
+  background-size: cover;}
+    .halft img{width: 400px;}
+    .jala{padding-left: 400px;}
+    .middle{text-align: center;
+    color: rgb(126, 119, 119);
+ font-weight: 900;
+font-size: 40px;}
+.dur{padding-left: 27%;
+    padding-right: 27%;
+text-align: center;}
+.tim{display: flex;
+    width: 33%;
+ margin-left: 100px;
+margin-bottom: 200px;}
+    .tin{box-shadow: black 10px 10px 40px;
+    margin-left: 60px;
+padding-left: 10px;
+border-radius: 10px;}
+.tin img{margin: 15px 15px 15px 5px;
+border-radius: 15px;}
+.last{display: flex;
+margin-left: 100px;
+box-shadow: black 10px 10px 60px;
+margin-right: 100px;
+padding-top: 50px;
+padding-bottom: 30px;
+border-radius: 20px;
+margin-bottom: 100px;}
+.last h2{margin-left: 200px;
+font-weight: 900;
+font-size: 40px;}
+.last h4{margin-left: 200px;
+font-weight: 300;}
+footer{box-shadow: 12px 12px 50px;
+    background-color: rgb(49, 29, 29);
+text-align: center;
+padding-top: 5px;
+padding-bottom: 80px;}
+footer h2{color: rgb(70, 66, 62);
+font-size: 40px;}
+footer h5{color: blanchedalmond;
+font-weight: 100;}
+.r{color: chocolate;}
