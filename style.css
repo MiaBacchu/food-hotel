@@ -23,8 +23,7 @@ font-weight: 700;}
   background-image: url(photo/bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  min-height: 80vh;
-  min-width: 204vh;
+  min-width: 100%;
   background-position: left;}
     .halft img{width: 400px;
     padding-right: 30%;
@@ -62,10 +61,10 @@ font-size: 40px;}
 .last h4{margin-left: 200px;
 font-weight: 300;}
 footer{box-shadow: 12px 12px 50px;
-    background-color: rgb(49, 29, 29);
+    background-color: rgb(15, 8, 8);
 text-align: center;
-padding-top: 5px;
-padding-bottom: 80px;}
+padding-top: 1%;
+padding-bottom: 5%;}
 footer h2{color: rgb(70, 66, 62);
 font-size: 40px;}
 footer h5{color: blanchedalmond;
