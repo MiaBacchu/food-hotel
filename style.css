@@ -62,6 +62,19 @@ font-weight: 900;
 font-size: 40px;}
 .last h4{padding-left: 140px;
     font-weight: 300;}
+.me{text-align: center;
+    color: sandybrown;
+font-size: 50px;
+font-weight: 900;}
+.eka{text-align: center;
+    color: royalblue;
+font-size: xx-large;
+font-weight: 900;}
+.center{text-align: center;
+color: red;
+font-size: large;
+font-weight: 900;
+margin-bottom: 10%;}
 footer{box-shadow: 12px 12px 50px;
     background-color: rgb(15, 8, 8);
 text-align: center;
